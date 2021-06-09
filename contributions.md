@@ -50,8 +50,7 @@ permalink: /publications/
 <td valign="middle" width="760"><p><font color="Peru">The influence of noise on the spiking activity of inferior colliculus neurons under different stimulus levels and SNRs</font><br>
 <strong>Maryam Hosseini</strong>, Gerardo Rodriguez, Hongsun Guo, Huber Lim, Éric Plourde <br>
 <font color="#A9A9A9">2018 SFN (Society for Neuroscience) meeting, San Diego, CA, Program No. 140.13., 2018. Online.</font> <br> <em>
-   <span style="font-weight: normal;">[<a href="https://doi.org/10.1109/EMBC.2019.8857622
-" target="_blank">paper</a>]  </span>
+   <span style="font-weight: normal;"> </span>
    </em></p></td>
 </tr>
 
