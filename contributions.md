@@ -24,7 +24,7 @@ permalink: /publications/
 <strong>Maryam Hosseini</strong>, Luca Celotti, Éric Plourde <br>
 <font color="#A9A9A9">ICASSP, 2021, pp. 1310-131.</font> <br> <em>
    <span style="font-weight: normal;">[<a href="https://doi.org/10.1109/ICASSP39728.2021.9414969
-" target="_blank">paper</a>]  </span>
+" target="_blank">paper</a>]  [<a href="https://github.com/MaryamHoss/BESD">project</a>]  </span>
    </em></p></td>
 </tr>
 
