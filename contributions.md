@@ -17,14 +17,25 @@ permalink: /publications/
 </tr>
 
 
+
+<tr>
+<td valign="middle" width="760"><p><font color="Peru">The effect of input noises on the activity of auditory neurons using GLM-based metrics</font><br>
+<strong>Maryam Hosseini</strong>, Gerardo Rodriguez, Hongsun Guo, Huber Lim, Éric Plourde <br>
+<font color="#A9A9A9">Journal of Neural Engineering (2021)</font> <br> <em>
+   <span style="font-weight: normal;">[<a href="https://doi.org/10.1088/1741-2552/abe979
+" target="_blank">paper</a>]  </span>
+   </em></p></td>
+</tr>
+
+
 ## Conferences
 
 <tr>
-<td valign="middle" width="760"><p><font color="Peru">Speaker-independent Brain Enhanced Speech Denoising</font><br>
+<td valign="middle" width="760"><p><font color="Peru">Speaker-Independent Speech Enhancement with Brain Signals</font><br>
 <strong>Maryam Hosseini</strong>, Luca Celotti, Éric Plourde <br>
-<font color="#A9A9A9">ICASSP, 2021, pp. 1310-131.</font> <br> <em>
-   <span style="font-weight: normal;">[<a href="https://doi.org/10.1109/ICASSP39728.2021.9414969
-" target="_blank">paper</a>]  [<a href="https://github.com/MaryamHoss/BESD">project</a>]  </span>
+<font color="#A9A9A9">TechRxiv, Preprint</font> <br> <em>
+   <span style="font-weight: normal;">[<a href="https://doi.org/10.36227/techrxiv.16624477.v1
+" target="_blank">paper</a>] </span>
    </em></p></td>
 </tr>
 
